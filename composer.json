@@ -1,5 +1,5 @@
 {
-    "name": "andrewdanilov/lingua-stem-ru",
+    "name": "andrewdanilov/php-lingua-stem-ru",
     "description": "Стеммер Портера. Извлечение корня из русского слова, без словаря.",
     "license": "MIT",
     "authors": [
